@@ -3,6 +3,10 @@
 ## What is three-tier environment?
 Three-tier environment is a well-established software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface, the application or business tier, where data is processed, and the data or database tier, where the data associated with the application is stored and managed.
 
+### Architecture
+![architecture](https://github.com/milind15/Hands-On/blob/bfb0999c4eeb20de328717045d8b5012eacb2bc7/architecture.jpg)
+
+
 ### The Terraform resources will consists of following structure
 
 ```
