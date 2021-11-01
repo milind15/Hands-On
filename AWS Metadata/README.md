@@ -10,7 +10,6 @@
 
 ## Execution
 - Open the `src` folder
-  - `cd aws-metadata-json/src`
 - Run whichever script you need:
   - `python3 get_metadata.py`
   - `python3 get_key.py`
