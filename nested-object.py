@@ -4,4 +4,4 @@ key_list = key.split('/')
 length = len(key_list)
 for i in range(0,length):
     a = a[key_list[i]]
-    print(a)
+print(a)
